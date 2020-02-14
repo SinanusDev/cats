@@ -1,5 +1,5 @@
 ﻿Public Class Configuration
-
+'S
     Public ThemeMode As Integer = 0 '0 = Nothing (Error)
 
     Private Sub Configuration_Load(sender As Object, e As EventArgs) Handles MyBase.Load
